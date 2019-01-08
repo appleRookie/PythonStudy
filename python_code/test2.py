@@ -7,5 +7,11 @@ date: 2019/1/7
 description: 
 email:muyl1@lenovo.com
 """
+
+def Git_print():
+    print("新增加服务！")
+
+
 if __name__ == "__main__":
     print("test2")
+    Git_print()

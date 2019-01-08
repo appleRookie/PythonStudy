@@ -12,6 +12,10 @@ def Git_print():
     print("新增加服务！")
 
 
+def Git_print2():
+    print("新增第二个服务")
+
+
 if __name__ == "__main__":
     print("test2")
     Git_print()

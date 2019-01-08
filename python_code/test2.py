@@ -19,3 +19,4 @@ def Git_print2():
 if __name__ == "__main__":
     print("test2")
     Git_print()
+    Git_print2()
